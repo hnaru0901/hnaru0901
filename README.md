@@ -4,7 +4,7 @@
 
 ### 🛠️ What I Do
 * 💻 **Web Developer**: 견고하고 깔끔한 코드를 지향하는 웹 개발
-* 🎮 **Game Developer**: 유튜브와 치지직에서 게임 개발 과정을 공유하는 게임 개발
+* 🎮 **Game Developer**: 카타르시스와 따뜻함을 선호하는 게임 개발
 
 ### 📚 Tech Stack
 ![JavaScript](https://img.shields.io/badge/javascript-%2332333e.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
